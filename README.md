@@ -9,4 +9,4 @@
 5. Which state has the highest average purchase amount?
 6. Which size generates the most revenue?
 7. ⭐ Is there a relationship between item color and purchase amount?
-8. What is the correlation between the Item Purchased and the Color and Size?
+8. ⭐ What is the correlation between the Item Purchased and the Color and Size?
